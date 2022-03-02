@@ -17,8 +17,8 @@
 
 ### Mari terhubung!
 <p>
-    <a href="https://t.me/divarvian" target="blank"><img src="https://img.shields.io/badge/@kenkanasw-30302f?style=flat&logo=telegram" /></a>
-    <a href="https://t.me/lieshooter_gc" target="blank"><img src="https://img.shields.io/badge/LIESHOOTER KU GROUP-black?style=flat&logo=telegram" /></a>
+    <a href="https://t.me/divarvian" target="blank"><img src="https://img.shields.io/badge/@divarvian-30302f?style=flat&logo=telegram" /></a>
+    <a href="https://t.me/lieshooter_gc" target="blank"><img src="https://img.shields.io/badge/LIESHOOTER GROUP-black?style=flat&logo=telegram" /></a>
 
 </p>
 <details>
