@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @divarvian
+- 👀 I’m interested in PHP, Java, C++, HTML, Python
+- 🌱 I’m currently learning Python
