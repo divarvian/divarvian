@@ -1,35 +1,31 @@
+# 💫 About Me:
+🌱 I’m currently learning Kotlin
 
 
-## 📨 Hubungi Saya di [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/divarvian) 
-<br>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/divarvian) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divarvian) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@divarvian) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@divarvian) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/divarvian) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@divarvian) 
 
-![Profile views](https://komarev.com/ghpvc/?username=divarvian&color=blue&style=flat-square&label=Profile+Views)
-### Stats:
-<p align="center"><a href="https://github.com/divarvian"><img src="https://github-readme-stats.vercel.app/api?username=divarvian&show_icons=true&theme=onedark"></a></p>
-<p align="center"><a href="https://github.com/divarvian"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divarvian&theme=radical&layout=compact"></a></p> 
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat-square&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=divarvian&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=divarvian&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=divarvian&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=divarvian&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<p>
-    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### Mari terhubung!
-<p>
-    <a href="https://t.me/divarvian" target="blank"><img src="https://img.shields.io/badge/@divarvian-30302f?style=flat&logo=telegram" /></a>
-    <a href="https://t.me/lieshooter_gc" target="blank"><img src="https://img.shields.io/badge/LIESHOOTER GROUP-black?style=flat&logo=telegram" /></a>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=divarvian&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-</p>
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+---
+[![](https://visitcount.itsvg.in/api?id=divarvian&icon=2&color=0)](https://visitcount.itsvg.in)
 
-![GitHub Award](https://github-profile-trophy.vercel.app/?username=divarvian)
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/divarvian) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/divarvian) 
 
-</details>
-
-<details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
-
-![Metrics](https://metrics.lecoq.io/divarvian?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FPonorogo)
-
-</details>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
