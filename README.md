@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Kotlin
+🌱 I’m currently learning GoLang
 
 
 ## 🌐 Socials:
@@ -29,6 +29,3 @@
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-https://chatgpt.com
-https://brone.ub.ac.id
