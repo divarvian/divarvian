@@ -1,31 +1,95 @@
-# 💫 About Me:
-🌱 I’m currently learning GoLang
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
+<h1 align="center">
+  Hi there, I'm divarvian 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/divarvian) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divarvian) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@divarvian) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@divarvian) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/divarvian) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@divarvian) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat-square&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=divarvian&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=divarvian&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=divarvian&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=divarvian&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=divarvian&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h3 align="center">A passionate student and developer exploring the intersection of code, creativity, and performance.</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=divarvian&icon=2&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/divarvian) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/divarvian) 
+### 👨‍💻 About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm a student of **Information Technology Education at Brawijaya University**, with a strong foundation in **Java**, **C++**, **PHP**, and **JavaScript**. My journey in tech is driven by a fascination for how software works under the hood and a desire to build things that are both useful and elegant. I thrive on challenges, from optimizing low-level code to designing intuitive user interfaces.
+
+- 🔭 I’m currently working on personal projects that challenge my problem-solving skills.
+- 🌱 I’m always learning, currently diving deeper into **Go (Golang)**, backend development, and cross-platform development.
+- 👯 I’m looking to collaborate on open-source projects, especially those related to tools or mobile development.
+- 💬 Ask me about anything related to my skills or my featured project below!
+- 📫 How to reach me: Check out my social links!
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I believe the best ideas often come from tinkering with seemingly unrelated hobbies.
+
+---
+
+### 🛠️ Languages and Tools
+
+Here are some of the technologies I'm proficient in:
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</p>
+
+---
+
+### 🚀 Featured Project: ImGui-Unity-Android
+
+My proudest work is **[ImGui-Unity-Android](https://github.com/divarvian/ImGui-Unity-Android)**, a template for integrating the powerful Dear ImGui library with Unity for Android.
+
+> This project provides a full-stack GUI framework for creating fast and efficient in-game debug menus and tools on mobile, saving significant development time.
+
+**How it Works:**
+- **Rendering:** Hooks into the EGL rendering surface (`eglSwapBuffers`) using the Dobby Hook framework to draw the UI.
+- **Touch Input:** Utilizes Unity's native touch handling system for seamless and responsive controls on mobile devices.
+
+**How to Implement:**
+1.  Extract the `libnative-lib.so` file for your target architecture (e.g., `armeabi-v7a`).
+2.  Place the library in the correct path within your Unity project.
+3.  Load the library from the `onCreate` method of your game's main activity (`UnityPlayerActivity`).
+    ```java
+    System.loadLibrary("native-lib");
+    ```
+
+**Credits:**
+A huge thanks to the creators of the libraries that made this possible:
+- **[ocornut](https://github.com/ocornut)** for the amazing [ImGui](https://github.com/ocornut/ImGui) library.
+- **[vvb2060](https://github.com/vvb2060)** for the [DobbyHook](https://github.com/vvb2060/dobby-android) framework.
+
+---
+
+### 📊 My GitHub Stats
+
+Here are some stats about my activity on GitHub.
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=divarvian&show_icons=true&locale=en&layout=compact&theme=dracula" alt="divarvian-top-langs" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=divarvian&show_icons=true&locale=en&theme=dracula" alt="divarvian-stats" />
+</p>
+<p align="center">
+  <img align="center" src="https://streak-stats.demolab.com?user=divarvian&theme=dracula&hide_border=true" alt="divarvian-streak" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+You can find me on almost any platform with the handle **@divarvian**. Let's connect!
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/divarvian) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/divarvian) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/divarvian) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@divarvian) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@divarvian) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divarvian) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@divarvian)
+[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/divarvian) 
